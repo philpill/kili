@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Day 7 - Mweka
 ---
 Got back to the gate at 10:30. First group of season to have returned by this route.

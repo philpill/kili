@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Day 2 - Machame Gate - Machame Camp
 ---
 Got up at 5:30 to shower, breakfast, pack and pile into our truck with our 12 (or so) crew, stopping every so often to pick up more guys. We would have 3 porters each, plus four or so guides.

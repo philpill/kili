@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Travel Visa
 ---
 I'm not sure why, but I've been neglecting my need for a travel visa. I suspect I might've read somewhere that you could get one upon arrival, but it seems like it might be easier to acquire one before I go.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Porters
 ---
 Our crew were so awesome I had to include a whole page just for them.

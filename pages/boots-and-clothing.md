@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Boots and Clothing
+permalink: boots-and-clothing/
 ---
 I've already got a whole bunch of stuff from my last trip, so no obscene monies need to be spent this time around. The only thing I really need is probably more socks, and a big hat.
 Update 30/04/12:

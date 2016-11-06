@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Toiletries
 ---
 This list was mostly compiled from my [previous trip](/kili/toiletries), plus recommendations.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The End - Arusha Market
 ---
 Kath and Bob left to go on safari. Sucked. Hounded by guys trying to con tourists out of money. Bought some shit CDs for $20 which I left in the taxi back in disgust.

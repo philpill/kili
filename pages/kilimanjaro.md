@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Kilimanjaro!
 ---
 After 2011's [awesome trip](http://everest.industrialnation.co.uk/) to [Everest Basecamp](http://en.wikipedia.org/wiki/Everest_Base_Camp), there had to be a followup. I personally, have never been to Africa (or many other places in the world, to be honest), so what better excuse to visit the continent of man's origin than to climb the highest mountain on the continent!

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Day 6 - Kilimanjaro Summit
 ---
 With our long, long marches and altitude, I found it hard to keep decent notes at the point. I have vague recollections of summit day, and surprisingly few, given how many hours we were out. Unfortunately, I have even fewer photos as there was nothing worth looking at and my enthusiasm plummeted the higher we got.

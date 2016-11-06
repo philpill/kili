@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Vaccinations
 ---
 I have to admit, the potential for falling ill in Africa scares the crap out of me. I already have an exaggerated propensity to mosquito bites and after seeing all those charity adverts over Christmas, what with the starving, malnourished, disease-ridden, bony babies and flies swarming all over their bony faces, it almost feels like the land of Africa doesn't actually want people living on her.

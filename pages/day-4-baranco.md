@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Day 4 - Baranco
 ---
 Today trek to Barranco got off to an early start at 08:30. We'd be taking a detour via the lava tower for more acclimatization.

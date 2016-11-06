@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Day 3 - Shira
 ---
 Woke up at the timely hour of 06:30, with the help of my flatmate's trusty Casio watch. I hadn't slept well, given my headache. I was longing for a proper pillow already - a laundry bag of socks just doesn't cut it.
