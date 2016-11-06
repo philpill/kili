@@ -14,4 +14,3 @@ Me and James naturally settled into a bag-wall arrangement where our huge North 
 Dinner that night was awesome - Mau, our charismatic chef, made us battered fish with zucchini and veg soup.
 Jackie finally made it us about 21:00 without her bags! They'd somehow got lost en route, but despite this, she and one of the guides trudged from Machame Gate to our camp in the dark, having come straight off the plane from the airport. What a trooper.
 I had problems sleeping tonight, with headaches.
-&nbsp;

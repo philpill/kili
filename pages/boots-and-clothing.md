@@ -9,26 +9,26 @@ Socks acquired! Along with some new, lightweight gloves.
 Gloves aren't waterproof, but that's probably no biggie. Going by past experience, I won't need the big ski gloves I took last time.
 Update: 11/05/13
 The footwear I'll be taking:
-<a href="http://uk.thenorthface.com/tnf-uk-en/men-s-hedgehog-gtx-xcrr-iii-shoes.html">North Face Hedgehog GTX XCR3</a> - ridiculously pretentious (brand, name and all of it) but no complaints as far as functionality goes. Heel support is good and the toe box is protected enough against impacts. Waterproof enough as far as I've tested. I'm taking these for casual indoor wear as well as for backup in case anything happens to my boots.
-<a href="http://www.amazon.co.uk/Mammut-Unisex-Adult-Monolith-Anthracite-Black-3010-00460-0015-1095/dp/B001QV1DIK">Mammut Monolith GTX</a> (2010) - good, solid boots. They weigh in about 2kg for the pair and give great ankle and heel support, as well as general impact protection. These went to Everest Basecamp and show no signs of giving in yet.
+[North Face Hedgehog GTX XCR3](http://uk.thenorthface.com/tnf-uk-en/men-s-hedgehog-gtx-xcrr-iii-shoes.html) - ridiculously pretentious (brand, name and all of it) but no complaints as far as functionality goes. Heel support is good and the toe box is protected enough against impacts. Waterproof enough as far as I've tested. I'm taking these for casual indoor wear as well as for backup in case anything happens to my boots.
+[Mammut Monolith GTX](http://www.amazon.co.uk/Mammut-Unisex-Adult-Monolith-Anthracite-Black-3010-00460-0015-1095/dp/B001QV1DIK) (2010) - good, solid boots. They weigh in about 2kg for the pair and give great ankle and heel support, as well as general impact protection. These went to Everest Basecamp and show no signs of giving in yet.
 Flip-flops - good ol' flip flops I bought in Venice (or someplace) on some random backpacking holiday. Good for bathroom wear. Any other time I'll probably be wearing socks so these won't work.
 Update 19/05/13:
 Clockwise, from top-left:
 
-<li>Light mid-layer jacket
-<li>Shell jacket
-<li>Down jacket
-<li>Shell trousers
-<li>3 x pairs convertible trousers
-<li>Thin gloves
-<li>8 x pairs of wool socks (6 x thick, 2 x medium)
-<li>Buff (replaces scarf)
-<li>Cap
-<li>Sunhat
-<li>Beanie
-<li>Various thin layers - 4 x t-shirts, 1 x short-sleeved shirt
+* Light mid-layer jacket
+* Shell jacket
+* Down jacket
+* Shell trousers
+* 3 x pairs convertible trousers
+* Thin gloves
+* 8 x pairs of wool socks (6 x thick, 2 x medium)
+* Buff (replaces scarf)
+* Cap
+* Sunhat
+* Beanie
+* Various thin layers - 4 x t-shirts, 1 x short-sleeved shirt
 
-I'm not entirely sure I'll be needing three pairs of trousers, but I remember being caught short on my last trip after a <a href="http://everest.industrialnation.co.uk/thukla/">toilet accident</a>. With three pairs, I might even get away without the shell trousers (I can always leave one pair to dry overnight).
+I'm not entirely sure I'll be needing three pairs of trousers, but I remember being caught short on my last trip after a [toilet accident](thukla). With three pairs, I might even get away without the shell trousers (I can always leave one pair to dry overnight).
 I'm not taking any long-sleeve shirts, which I may end up regretting - I'll be a prime target for mozzies and a candidate for sunburn (which I already got earlier in the year).
 Eight pairs of socks seems a bit overkill till I remember that I was wearing two pairs per day, having to change due to over-sweating on my feet. Thinner socks could be an idea, but then I'd be worried about blisters and lack of cushioning in my boots. I also have a pair or liner socks (not in pic) which I don't remember wearing in previous trips. Might be worth taking anyway, given their (lack of) weight.
 Also ... pants (not in pic).

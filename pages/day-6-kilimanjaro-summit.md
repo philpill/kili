@@ -4,7 +4,7 @@ title: Day 6 - Kilimanjaro Summit
 ---
 With our long, long marches and altitude, I found it hard to keep decent notes at the point. I have vague recollections of summit day, and surprisingly few, given how many hours we were out. Unfortunately, I have even fewer photos as there was nothing worth looking at and my enthusiasm plummeted the higher we got.
 We got up at 11 or so after a frustratingly short sleep. It was absolutely pitch black and freezing outside our tents. I wasn't wearing quite as many layers as everyone else - I was going to chance on a few less layers (no baselayers on my legs, and a single midlayer on my body), remembering how hot I'd gotten last time.
-Everyone piled into the mess tent for one final debrief before we departed. Ibrahim tested everyone for heart rate and <a href="https://en.wikipedia.org/wiki/Oxygenation_(medicine)">blood-oxygen saturation level</a>. I remember having a slightly higher than normal heart rate and the lowest oxygenation out of the group (about 70%), even worse than Bob who was about twice my age!
+Everyone piled into the mess tent for one final debrief before we departed. Ibrahim tested everyone for heart rate and [blood-oxygen saturation level](https://en.wikipedia.org/wiki/Oxygenation_(medicine)). I remember having a slightly higher than normal heart rate and the lowest oxygenation out of the group (about 70%), even worse than Bob who was about twice my age!
 We'd be coming back to camp after the summit, so we really didn't need to carry much besides water and snackage.
 I was carrying my camelbak (the tube would freeze en route, just like last time, despite the steps I'd taken), my smaller 700ml bottle (which M'Sofia mistakenly filled with hot water - I was a tad worried as this bottle isn't the right kind of plastic, but it was fine ... kept me warm), headtorch (with a partial change of batteries - I'd only brought two spare batteries whereas this takes three, d'oh), trekking poles, and a couple of handfuls of nuts and M&amp;Ms in the hip pockets.
 We started on up in earnest. Walking in the pitch black but for our torches, we could see several people ahead of us, as well as a few who set off from camp around the same time. I would have been interested to see how Team Kili (a similar group trekking at the same time, but with 30 members!) would've planned this. The logistics of managing so many people in the dark must be enormous.
@@ -20,8 +20,6 @@ Slightly before dawn, James caught up with us having made a 100% recovery! He wa
 Ibrahim kept telling us it wasn't far to go and this was thoroughly annoying me - his attempts to encourage us merely led to disappointment and resentment upon rounding a corner and seeing the path wind off even further into the distance.
 Reached Stellar Point about 5:30 thinking it was summit.
 
-&nbsp;
-
 The long walk across from Stellar Point takes you across the snow fields which're easily knee-high. The path was icy after much footfall, so took a bit of light-stepping. Not hard, but tiring at this altitude.
 
 Reached actual summit about 7:00. There was nothing there - a metal box for donations in case you happened to be carrying money up a mountain expecting to see a souvenir or coffee shop ... Apparently this was a new sign but was still covered in stickers and things. No prayer flags though, which is a complete contrast to Everest Base Camp, which is completely covered.
@@ -29,6 +27,6 @@ We had a few photos and dossed for an hour or so before setting off down. Someho
 
 Now that the sun had come up, we had a perfect view of the distance we had walked over the seven hours: 4.5km. We took a more direct route to get back to camp: straight down! Basically running and sliding down the skree: skree-skiing. Luckily I was pig-headed enough to not let my guide drag me down too quickly, but some of the other guys tripped and fell as they were 'led' down the slopes.
 According to my notes, I got back into camp about 16:00, which seems a tad odd - it'd mean it took me 8 hours to get down, after taking 7 hours to go up. I can only think my notes were a bit off.
-EDIT: According to Adventure Company's <a href="http://www.adventurecompany.co.uk/node/254402/notes">trip notes</a>, the descent should take about three hours.
+EDIT: According to Adventure Company's [trip notes](http://www.adventurecompany.co.uk/node/254402/notes), the descent should take about three hours.
 
 Had 45 minutes to sleep at camp before packing and moving onto the next camp (3100m) via the Mweka route down.

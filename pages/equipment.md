@@ -5,11 +5,11 @@ title: Equipment
 Is there much I need for an assisted trek? Might get some decent shades, maybe a different, better camera, decent watch, map and compass. I dunno. Oh, trekking poles - definitely those.
 Get spare batteries for everything.
 Update 11/05/13:
-Got some sweet, sweet shades: Bloc Scorpion (P301) Cat 3 Polarised £45 (<a href="http://www.amazon.co.uk/Bloc-Scorpion-Sport-Sunglasses/dp/B007NVHZHU">available at Amazon for £30</a> ... dammit). They have a nice little bridge for the nose so they fit my relatively flat face without pressing against my eyeballs. They also have some side shielding to keep the dust and wind out.
+Got some sweet, sweet shades: Bloc Scorpion (P301) Cat 3 Polarised £45 ([available at Amazon for £30](http://www.amazon.co.uk/Bloc-Scorpion-Sport-Sunglasses/dp/B007NVHZHU) ... dammit). They have a nice little bridge for the nose so they fit my relatively flat face without pressing against my eyeballs. They also have some side shielding to keep the dust and wind out.
 Update 19/05/13:
 Trekking poles!
 
-<a href="http://www.blackdiamondequipment.com/en-gb/shop/mountain/trekking-poles/ultra-distance-trekking-pole/">Black Diamond Ultra Distance</a>
+[Black Diamond Ultra Distance](http://www.blackdiamondequipment.com/en-gb/shop/mountain/trekking-poles/ultra-distance-trekking-pole/)
 (with my X-Box controller for size comparison)
 They're a little too short (maybe like, 10cm) - my arms aren't quite 90° when I'm holding them, but I'm sure I won't notice when I'm walking. They're super-lightweight and fold up pretty small.
 Afterthoughts:
