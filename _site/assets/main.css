@@ -177,13 +177,3 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
-
-img { width: 100%; max-width: 100%; }
-
-body { padding: 1em; }
-
-.container { display: flex; align-items: stretch; }
-
-.navigation { width: 28%; }
-
-.content { width: 70%; }
