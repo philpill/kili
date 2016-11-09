@@ -1,0 +1,16 @@
+img {
+  width: 100%;
+  max-width: 100%; }
+
+body {
+  padding: 1em; }
+
+.container {
+  display: flex;
+  align-items: stretch; }
+
+.navigation {
+  width: 28%; }
+
+.content {
+  width: 70%; }
