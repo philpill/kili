@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 6 - Kilimanjaro Summit
+permalink: day-6-kilimanjaro-summit/
 ---
 With our long, long marches and altitude, I found it hard to keep decent notes at the point. I have vague recollections of summit day, and surprisingly few, given how many hours we were out. Unfortunately, I have even fewer photos as there was nothing worth looking at and my enthusiasm plummeted the higher we got.
 We got up at 11 or so after a frustratingly short sleep. It was absolutely pitch black and freezing outside our tents. I wasn't wearing quite as many layers as everyone else - I was going to chance on a few less layers (no baselayers on my legs, and a single midlayer on my body), remembering how hot I'd gotten last time.

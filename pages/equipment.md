@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Equipment
+permalink: equipment/
 ---
 Is there much I need for an assisted trek? Might get some decent shades, maybe a different, better camera, decent watch, map and compass. I dunno. Oh, trekking poles - definitely those.
 Get spare batteries for everything.

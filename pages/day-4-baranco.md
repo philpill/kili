@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 4 - Baranco
+permalink: day-4-baranco/
 ---
 Today trek to Barranco got off to an early start at 08:30. We'd be taking a detour via the lava tower for more acclimatization.
 James was looking pretty ill today - he kept falling asleep whenever we stopped. Lava Tower was an impressive piece of rock. Ibrahim tells me people rockclimb up the thing, but I have my doubts - the lava stone is crazy sharp (as I found out trying to do some bouldering) and the whole tower looks ready to topple and break.

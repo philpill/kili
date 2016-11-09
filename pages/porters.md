@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Porters
+permalink: porters/
 ---
 Our crew were so awesome I had to include a whole page just for them.
 [caption id="attachment_200" align="alignleft" ] Ibrahim - Head Guide[/caption]

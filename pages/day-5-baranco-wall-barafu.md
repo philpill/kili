@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 5 - Baranco Wall, Barafu
+permalink: day-5-baranco-wall-barafu/
 ---
 I woke up crazy early today, for no particular reason. Deciding to go for a piss at 5:30, I managed to forget which tent was mine and tried to get into someone else's not once, but twice (apologies, fellow trekkers!) I'm gonna have to start bringing a flag to stick on my door ...
 Katherine turns 30 today! Mau made her an awesome cake. Happy birthday Kath!

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Toiletries
+permalink: toiletries/
 ---
 This list was mostly compiled from my [previous trip](/kili/toiletries), plus recommendations.
 

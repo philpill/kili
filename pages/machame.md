@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Machame
+permalink: machame/
 ---
 
 I was kinda umm-ing and ahh-ing as to which route to take. I had initially decided via  [Machame](https://en.wikipedia.org/wiki/Mount_Kilimanjaro_climbing_routes#Machame), but after the initial postponement I also briefly considered  [Rongai](https://en.wikipedia.org/wiki/Mount_Kilimanjaro_climbing_routes#Rongai), but I'm sure they're all good.

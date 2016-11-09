@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Money (and Tipping)
+permalink: money/
 ---
 
 You can't get Tazmania's currency ([Tanzanian Shillings](http://en.wikipedia.org/wiki/Tanzanian_shilling)) here in UK - it's another one of those restricted currencies, so visitors have to make do with the next best thing: US Dollars.

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Diamox
+permalink: diamox/
 ---
 
 ![Diamox]({{ site.baseurl }}/assets/diamox.jpg)

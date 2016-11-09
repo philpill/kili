@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 3 - Shira
+permalink: day-3-shira/
 ---
 Woke up at the timely hour of 06:30, with the help of my flatmate's trusty Casio watch. I hadn't slept well, given my headache. I was longing for a proper pillow already - a laundry bag of socks just doesn't cut it.
 By this point, each pair had been privately assigned specific porters, who would tend to our specific bags and tents. We were never introduced to them, but noticed it was always the same guys who took our big bags and packed/setup our tents.

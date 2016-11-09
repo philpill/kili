@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dioralyte
+permalink: dioralyte/
 ---
 
 ![Dioralyte]({{ site.baseurl }}/assets/dioralyte.jpg)

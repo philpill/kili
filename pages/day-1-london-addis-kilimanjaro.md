@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 0/1 - London - Addis - Kilimanjaro
+permalink: day-1-london-addis-kilimanjaro/
 ---
 The holiday didn't start off with the best of news: all sorts of aviation problems were being reported by the BBC.
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Travel Visa
+permalink: visa/
 ---
 I'm not sure why, but I've been neglecting my need for a travel visa. I suspect I might've read somewhere that you could get one upon arrival, but it seems like it might be easier to acquire one before I go.
 <blockquote>Visas for Tanzania are available on arrival for some nationalities, but we strongly recommend that you get your visa before travelling, as delays of 1 ½ - 2 hours can occur when getting the visa on arrival at Dar Es Salaam airport.</blockquote>

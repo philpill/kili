@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Day 2 - Machame Gate - Machame Camp
+permalink: day-2-machame-gate/
 ---
 Got up at 5:30 to shower, breakfast, pack and pile into our truck with our 12 (or so) crew, stopping every so often to pick up more guys. We would have 3 porters each, plus four or so guides.
 It was a 3 hour ride to arrive at Machame Gate (1800m) at 10:00 where we'd begin our trek.
