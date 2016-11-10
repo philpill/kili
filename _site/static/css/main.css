@@ -178,7 +178,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-img { width: 100%; max-width: 100%; }
+img { max-width: 100%; clear: both; display: block; border: solid 1px #333; margin: 1em 0; }
 
 body { padding: 1em; }
 

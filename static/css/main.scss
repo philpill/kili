@@ -3,7 +3,13 @@
 
 @import "minima";
 
-img { width: 100%; max-width: 100%; }
+img {
+    max-width: 100%;
+    clear: both;
+    display: block;
+    border: solid 1px #333;
+    margin: 1em 0;
+}
 
 body { padding: 1em; }
 

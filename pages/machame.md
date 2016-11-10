@@ -15,6 +15,7 @@ Also, 13-14 hours of walking on summit day, nearly six kilometres up from sea le
 Afterthoughts:
 
 I found summit day to be intensely difficult. My morale dropped like a brick on those final days -  the walking just seemed to go on forever, and it didn't help that you could see the path winding off miles into the distance.
+
 The last few days consisted of:
 
 * 10km walk, 4hr sleep
