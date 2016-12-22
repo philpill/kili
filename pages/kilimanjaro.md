@@ -3,7 +3,7 @@ layout: default
 title: Kilimanjaro!
 permalink: kilimanjaro/
 ---
-After 2011's [awesome trip](http://everest.industrialnation.co.uk/) to [Everest Basecamp](http://en.wikipedia.org/wiki/Everest_Base_Camp), there had to be a followup. I personally, have never been to Africa (or many other places in the world, to be honest), so what better excuse to visit the continent of man's origin than to climb the highest mountain on the continent!
+After 2011's [awesome trip](http://philshum.co.uk/trekking-everest/) to [Everest Basecamp](http://en.wikipedia.org/wiki/Everest_Base_Camp), there had to be a followup. I personally, have never been to Africa (or many other places in the world, to be honest), so what better excuse to visit the continent of man's origin than to climb the highest mountain on the continent!
 
 Mount Kilimanjaro is situated in [Tanzania](http://en.wikipedia.org/wiki/Tanzania) in the lower south-east of [Africa](http://en.wikipedia.org/wiki/East_Africa) and is home to the [Masai](http://en.wikipedia.org/wiki/Maasai_people), [Serengeti](http://en.wikipedia.org/wiki/Serengeti) and [Ngorongoro Crater](http://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area#Ngorongoro_Crater).
 
