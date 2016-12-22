@@ -13,13 +13,19 @@ After our wash, we'd head bleary-eyed into the mess tent for breakfast, which us
 
 Following breakfast, we'd get some sort of briefing from Ibrahim, on what we should expect from the day's trek, and what we should carry for the day. Then we'd have maybe half an hour to pack our stuff up and head out.
 
+![]({{ site.baseurl }}/assets/packing.jpg)
+
 Today, we'd be heading out towards Shira, which was about 6km away, but we'd be going a bit further and higher (3900m) then coming down to down to camp to acclimatize.
 
 I broke out with the trekking poles today, just to get a feel for them. I only really needed them for downhill (having wrecked my knee on a previous trip), but having spent a hundred quid on these ridiculously technical poles, I felt I needed to get my money's worth ....
 
 Today's walk took us up above the clouds, which was pretty spectacular and not surprisingly this is where the vegetation starts to thin out and everything looks a bit more mountain-y.
 
+![]({{ site.baseurl }}/assets/clouds.jpg)
+
 By the time we pulled up into Shira camp, a fog had rolled in and everything was looking very swampy and eerie. Looks like we got in just in time, 'cos it started to rain about this point. However, it was only mid-afternoon, so we had to amuse ourselves for a bit before dinner. James had gone off to pass out already, so I went toilet-exploring with Gemma and Katherine.
+
+![]({{ site.baseurl }}/assets/fog.jpg)
 
 On a side-note - toilets on the Kili trail are not for the faint of heart. Thanks to the countless numbers of trekkers and porters who pass through the area, the already basic facilities get pretty messed up, festival-style. That's before you factor in the lack of electricity, local bug population and occasional long drop. If you don't know what a long-drop is, you could probably hazard a good guess ...
 

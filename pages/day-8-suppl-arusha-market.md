@@ -9,4 +9,6 @@ Saw a few bits and bobs around the city. Went back to lodge.
 
 Left Jackie to her safari trip. Caught bus with Rongai crew - exchanged war stories.
 
+![]({{ site.baseurl }}/assets/home.jpg)
+
 Caught flight home at Kili airport. All was well.

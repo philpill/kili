@@ -35,18 +35,30 @@ Slightly before dawn, James caught up with us having made a 100% recovery! He wa
 
 Ibrahim kept telling us it wasn't far to go and this was thoroughly annoying me - his attempts to encourage us merely led to disappointment and resentment upon rounding a corner and seeing the path wind off even further into the distance.
 
-Reached Stellar Point about 5:30 thinking it was summit.
+Reached Stella Point about 5:30 thinking it was summit.
 
-The long walk across from Stellar Point takes you across the snow fields which're easily knee-high. The path was icy after much footfall, so took a bit of light-stepping. Not hard, but tiring at this altitude.
+![]({{ site.baseurl }}/assets/stella.jpg)
+
+![]({{ site.baseurl }}/assets/summit1.jpg)
+
+The long walk across from Stella Point takes you across the snow fields which're easily knee-high. The path was icy after much footfall, so took a bit of light-stepping. Not hard, but tiring at this altitude.
+
+![]({{ site.baseurl }}/assets/summit2.jpg)
 
 Reached actual summit about 7:00. There was nothing there - a metal box for donations in case you happened to be carrying money up a mountain expecting to see a souvenir or coffee shop ... Apparently this was a new sign but was still covered in stickers and things. No prayer flags though, which is a complete contrast to Everest Base Camp, which is completely covered.
 
 We had a few photos and dossed for an hour or so before setting off down. Somehow I managed to fall behind even though I set off first and don't recall seeing anyone going past me.
 
+![]({{ site.baseurl }}/assets/uhuru.jpg)
+
 Now that the sun had come up, we had a perfect view of the distance we had walked over the seven hours: 4.5km. We took a more direct route to get back to camp: straight down! Basically running and sliding down the skree: skree-skiing. Luckily I was pig-headed enough to not let my guide drag me down too quickly, but some of the other guys tripped and fell as they were 'led' down the slopes.
 
 According to my notes, I got back into camp about 16:00, which seems a tad odd - it'd mean it took me 8 hours to get down, after taking 7 hours to go up. I can only think my notes were a bit off.
 
-EDIT: According to Adventure Company's [trip notes](http://www.adventurecompany.co.uk/node/254402/notes), the descent should take about three hours.
+EDIT: According to Adventure Company's [trip notes](http://www.adventurecompany.co.uk/node/254402/notes), the descent should take about 3 hours.
+
+EDIT: The time taken from summit to camp would be quite long compared to the climb, where we started at the base. So I guess we spent 3 hours getting down and another few hours walking to camp.
+
+![]({{ site.baseurl }}/assets/survivors.jpg)
 
 Had 45 minutes to sleep at camp before packing and moving onto the next camp (3100m) via the Mweka route down.

@@ -7,7 +7,11 @@ Today trek to Barranco got off to an early start at 08:30. We'd be taking a deto
 
 James was looking pretty ill today - he kept falling asleep whenever we stopped. Lava Tower was an impressive piece of rock. Ibrahim tells me people rockclimb up the thing, but I have my doubts - the lava stone is crazy sharp (as I found out trying to do some bouldering) and the whole tower looks ready to topple and break.
 
+![]({{ site.baseurl }}/assets/lavatower.jpg)
+
 My first camera battery ran out at this point - I only had one more spare and I chided myself for not having more. I did buy a third online to bring along, but it didn't get delivered till after I left. I'd have to keep photo-taking to a minimum till the last night. Luckily for me, my trekmates were all happy snappers so there're still plenty of photos of the next few days.
+
+![]({{ site.baseurl }}/assets/wasteland.jpg)
 
 Today's portion of the journey seemed to take forever, mostly due to the sheer bleakness of the landscape. There seemed to be nothing but rolling wastelands of rock. We covered 10km and arrived at Barranco Hut for 17:30, where we registered our arrival and crashed into our tents.
 

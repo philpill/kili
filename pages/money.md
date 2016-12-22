@@ -6,6 +6,8 @@ permalink: money/
 
 You can't get Tazmania's currency ([Tanzanian Shillings](http://en.wikipedia.org/wiki/Tanzanian_shilling)) here in UK - it's another one of those restricted currencies, so visitors have to make do with the next best thing: US Dollars.
 
+![]({{ site.baseurl }}/assets/money.jpg)
+
 Current exchange rate is £1:1.54USD
 
 I bought my $700 from the trusty Post Office for the sum of £472.98. So I was charged about a tenner, I think. I'm not entirely sure how much money I need, but the main outlay will be tipping the guides and porters. This is what's recommended by the Adventure Co.:

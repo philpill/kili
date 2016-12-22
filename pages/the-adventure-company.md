@@ -4,6 +4,8 @@ title: The Adventure Company
 permalink: the-adventure-company/
 ---
 
+![]({{ site.baseurl }}/assets/adventurecompany.png)
+
 Holiday booked! After my awesome trip to Everest Basecamp, who to go with than the equally awesome Adventure Company? Probably costs more (a cool two grand, including insurance and flights), but hey, I'm too lazy to search for a better deal, haha.
 
 Besides, they're good guys - they well organised and everything. Highly recommended.
