@@ -12,3 +12,5 @@ Left Jackie to her safari trip. Caught bus with Rongai crew - exchanged war stor
 ![]({{ site.baseurl }}/assets/home.jpg)
 
 Caught flight home at Kili airport. All was well.
+
+Check out my photos of the trip at: [flickr](https://www.flickr.com/photos/philpill/albums/72157633878075383).
