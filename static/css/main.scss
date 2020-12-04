@@ -4,10 +4,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import './normalize.css';
 
+$color-grey: #999;
+$color-white: #fff;
+$color-black: #222;
+$color-pale-blue: #79c;
+
 body { 
     font-family: 'Lato', sans-serif;
     font-size: 16px;
     line-height: 1.5;
+}
+
+header {
+    border-bottom: solid 1px $color-grey;
+}
+
+h1 {
+    margin: 0.5rem 0;
+    font-size: 1.6rem;
 }
 
 .header-nav {
@@ -20,9 +34,10 @@ body {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    height: calc(100vh - 6rem);
-    overflow-y: scroll;
-    background: #ffffff;
+    max-height: calc(100vh - 3.5rem);
+    overflow-y: auto;
+    background: $color-white;
+    width: 15rem;
 }
 
 #is-nav-visible {
@@ -32,14 +47,17 @@ body {
 .navigation-list {
     margin: 0 1rem 1rem 1rem;
     padding: 0;
-}
-
-li {
     list-style: outside none;
 }
 
+ul {
+    list-style-type: "- ";
+    list-style-position: inside;
+    padding: 0;
+}
+
 a:visited {
-    color: #999999;
+    color: $color-grey;
 }
 
 a:hover {
@@ -51,6 +69,7 @@ a:hover {
     max-width: 30rem;
     margin-left: 1rem;
     margin-right: 1rem;
+    min-height: 40rem;
 }
 
 header {
@@ -61,14 +80,19 @@ img {
     max-width: 100%;
 }
 
+.container {
+    margin-bottom: 3.5rem;
+    border-bottom: solid 1px $color-grey;
+}
+
 @media all and (max-width: 48rem) {
     header {
-        border-bottom: solid 1px #999999;
         position: fixed;
         width: 100%;
-        background: #ffffff;
+        background: $color-white;
         display: flex;
         align-items: center;
+        z-index: 1;
     }
     h1 {
         font-size: 1rem;
@@ -76,7 +100,7 @@ img {
     }
     .header-nav {
         display: block;
-        background: #ffffff;
+        background: $color-white;
         height: 1.5rem;
     }
     .header-nav:hover {
@@ -87,6 +111,9 @@ img {
         position: fixed;
         top: 3.5rem;
         height: calc(100vh - 3.5rem);
+        overflow: auto;
+        width: 15rem;
+        z-index: 1;
     }
     #is-nav-visible:checked+.navigation {
         display: block;
@@ -94,5 +121,23 @@ img {
     .content {
         margin-top: 3rem;
         max-width: initial;
+    }
+}
+
+@media(prefers-color-scheme: dark) {
+    body,
+    .navigation,
+    header,
+    .header-nav {
+        background-color: $color-black;
+    } 
+    body {
+        color: $color-grey;
+    }
+    a:link {
+        color: $color-pale-blue;
+    }
+    img {
+      filter: grayscale(50%);
     }
 }
