@@ -36,3 +36,5 @@ exclude:
   - export
   - Gemfile
   - Gemfile.lock
+sass:
+  sass_dir: static/css

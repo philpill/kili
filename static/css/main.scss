@@ -1,16 +1,18 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-@import './normalize.css';
+@import "../fa/scss/fontawesome.scss";
+@import "../fa/scss/solid.scss";
 
 $color-grey: #999;
 $color-white: #fff;
 $color-black: #222;
 $color-pale-blue: #79c;
 
+$fa-font-path: "../fa/webfonts";
+
 body { 
-    font-family: 'Lato', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1.5;
 }
@@ -85,6 +87,14 @@ img {
     border-bottom: solid 1px $color-grey;
 }
 
+.header-menu {
+	@extend %fa-icon;
+	@extend .fas;
+	&:before {
+		content: fa-content($fa-var-bars);
+	}
+}
+
 @media all and (max-width: 48rem) {
     header {
         position: fixed;
@@ -106,7 +116,7 @@ img {
     .header-nav:hover {
         cursor: pointer;
     }
-    .navigation {
+	.navigation {
         display: none;
         position: fixed;
         top: 3.5rem;
