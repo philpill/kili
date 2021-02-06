@@ -47,6 +47,8 @@ The long walk across from Stella Point takes you across the snow fields which're
 
 Reached actual summit about 7:00. There was nothing there - a metal box for donations in case you happened to be carrying money up a mountain expecting to see a souvenir or coffee shop ... Apparently this was a new sign but was still covered in stickers and things. No prayer flags though, which is a complete contrast to Everest Base Camp, which is completely covered.
 
+![]({{ site.baseurl }}/assets/summit.jpg)
+
 We had a few photos and dossed for an hour or so before setting off down. Somehow I managed to fall behind even though I set off first and don't recall seeing anyone going past me.
 
 ![]({{ site.baseurl }}/assets/uhuru.jpg)
