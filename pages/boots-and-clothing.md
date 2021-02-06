@@ -7,7 +7,7 @@ I've already got a whole bunch of stuff from my last trip, so no obscene monies 
 
 Update 30/04/12:
 
-![]({{ site.baseurl }}/assets/optimised/smartwool.jpg)
+![](/assets/optimised/smartwool.jpg)
 
 Socks acquired! Along with some new, lightweight gloves.
 
@@ -15,7 +15,7 @@ Gloves aren't waterproof, but that's probably no biggie. Going by past experienc
 
 Update: 11/05/13
 
-![]({{ site.baseurl }}/assets/optimised/shoes.jpg)
+![](/assets/optimised/shoes.jpg)
 
 The footwear I'll be taking:
 
@@ -27,7 +27,7 @@ Flip-flops - good ol' flip flops I bought in Venice (or someplace) on some rando
 
 Update 19/05/13:
 
-![]({{ site.baseurl }}/assets/optimised/clothing.jpg)
+![](/assets/optimised/clothing.jpg)
 
 Clockwise, from top-left:
 

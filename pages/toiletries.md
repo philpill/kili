@@ -3,7 +3,7 @@ layout: default
 title: Toiletries
 permalink: toiletries/
 ---
-![]({{ site.baseurl }}/assets/optimised/toiletries.jpg)
+![](/assets/optimised/toiletries.jpg)
 This list was mostly compiled from my [previous trip](/kili/toiletries), plus recommendations.
 
 1. Toilet roll (tube removed)

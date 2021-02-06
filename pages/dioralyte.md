@@ -4,7 +4,7 @@ title: Dioralyte
 permalink: dioralyte/
 ---
 
-![Dioralyte]({{ site.baseurl }}/assets/optimised/dioralyte.jpg)
+![Dioralyte](/assets/optimised/dioralyte.jpg)
 
 I think the intended use for [Dioralyte](http://www.nhs.uk/medicine-guides/pages/MedicineOverview.aspx?medicine=Dioralyte) is for diarrhoea sufferers, but it's good for any general re-hydration use, such as caused by the diuretic effects of Diamox.
 

@@ -45,7 +45,7 @@ I'm also needing some sort of [anti-malarial](http://en.wikipedia.org/wiki/Antim
 
 Update 30/04/13:
 
-![]({{ site.baseurl }}/assets/optimised/vac_4.jpg)
+![](/assets/optimised/vac_4.jpg)
 
 Got the yellow fever shot and malaria tablets ([Malarone](https://en.wikipedia.org/wiki/Atovaquone/proguanil)) to the tune of about £130 (accidentally chucked the receipt, dammit, but it was about £80 for the anti-malarials and £50 for the shot). You can see the all-important yellow fever certificate in the image above.
 
@@ -53,4 +53,4 @@ The yellow fever vaccine is a 'live' vaccine and gave me some flu-ish symptoms f
 
 I was given 18 tablets - to start 1 day before I enter the country and conclude 1 week after I return. I was given a choice of which I wanted, along with a list of all their side effects and to be honest, they all sounded horrible. I went for the most expensive as the next best option would require that I pop pills for a month after I return and possibly burn to a crisp in the sun (increased photo-sensitivity).
 
-![]({{ site.baseurl }}/assets/optimised/antimalarial.jpg)
+![](/assets/optimised/antimalarial.jpg)

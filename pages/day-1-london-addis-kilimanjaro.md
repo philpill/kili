@@ -5,10 +5,10 @@ permalink: day-1-london-addis-kilimanjaro/
 ---
 The holiday didn't start off with the best of news: all sorts of aviation problems were being reported by the BBC.
 
-![Two held after RAF Typhoon jets escort Pakistan plane over UK]({{ site.baseurl }}/assets/optimised/emergency_1.jpg)
+![Two held after RAF Typhoon jets escort Pakistan plane over UK](/assets/optimised/emergency_1.jpg)
 [http://www.bbc.co.uk/news/uk-22658979](http://www.bbc.co.uk/news/uk-22658979)
 
-![Plane 'fire' closes Heathrow runways]({{ site.baseurl }}/assets/optimised/emergency_2.jpg)
+![Plane 'fire' closes Heathrow runways](/assets/optimised/emergency_2.jpg)
 [http://www.bbc.co.uk/news/uk-england-22652718](http://www.bbc.co.uk/news/uk-england-22652718)
 
 All mostly nothings, but it did make me feel a tad apprehensive. However, I managed to make it to Heathrow T3 by about 5pm - a good four hours before takeoff. I'd later learn that the rest of my group would not have such a straightforward journey.
@@ -27,7 +27,7 @@ While I was in the bog, the captain made an announcement that we were flying ove
 
 Finally got to Kilimanjaro airport which was actually kinda nice! The place was scenic and pretty serene.
 
-![Kilimanjaro Airport]({{ site.baseurl }}/assets/optimised/kilimanjaro_airport.jpg)
+![Kilimanjaro Airport](/assets/optimised/kilimanjaro_airport.jpg)
 
 I spoke to Gemma and unknowingly to James' grandparents who were on the same flights but were just on holiday. Also stopped to talk to a little family who were with Adventure Co. on safari sorta trip while I was filling out my landing card with Jay and Gemma.
 
@@ -43,4 +43,4 @@ The rooms and indeed, the whole place was really nice. The view out the lounge w
 
 We met with Kath and her Dad Bob at the prep and learned that we would be joined by a seventh member: Jackie, later on, at Machame Gate.
 
-![Sherril, James, Bob, Jackie, Kath, Gemma]({{ site.baseurl }}/assets/optimised/group.jpg)
+![Sherril, James, Bob, Jackie, Kath, Gemma](/assets/optimised/group.jpg)
