@@ -6,7 +6,7 @@ permalink: money/
 
 You can't get Tazmania's currency ([Tanzanian Shillings](http://en.wikipedia.org/wiki/Tanzanian_shilling)) here in UK - it's another one of those restricted currencies, so visitors have to make do with the next best thing: US Dollars.
 
-![]({{ site.baseurl }}/assets/money.jpg)
+![]({{ site.baseurl }}/assets/optimised/money.jpg)
 
 Current exchange rate is £1:1.54USD
 

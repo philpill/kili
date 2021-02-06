@@ -7,19 +7,19 @@ I woke up crazy early today, for no particular reason. Deciding to go for a piss
 
 Katherine turns 30 today! Mau made her an awesome cake. Happy birthday Kath!
 
-![]({{ site.baseurl }}/assets/birthday.jpg)
+![]({{ site.baseurl }}/assets/optimised/birthday.jpg)
 
 We left camp at about 8:30 and would be heading up to Baranco Wall towards Barafu today for some scrambling - lots of fun. Rock climbing being my thing, I absolutely loved it.
 
-![]({{ site.baseurl }}/assets/baranco.jpg)
+![]({{ site.baseurl }}/assets/optimised/baranco.jpg)
 
 However, my joy was short-lived as I bitched endlessly about the distance we're walking. It felt like we were trudging for miles (8km). Today's hike would take about 8 hours.
 
-![]({{ site.baseurl }}/assets/baranco1.jpg)
+![]({{ site.baseurl }}/assets/optimised/baranco1.jpg)
 
 I was disheartened by the distance, but today would be our last before summit night. We're nearly there!
 
-![]({{ site.baseurl }}/assets/barafu.jpg)
+![]({{ site.baseurl }}/assets/optimised/barafu.jpg)
 
 Barafu Hut was a featureless rockland. There was nothing cheery about this place at all. The view outside our tent was spectacular tho' ...
 

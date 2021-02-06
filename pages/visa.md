@@ -9,7 +9,7 @@ I'm not sure why, but I've been neglecting my need for a travel visa. I suspect 
 
 Two weeks is cutting it a bit closer than I'd like (when there's no reason I couldn't have done this months ago), but luckily, this process shouldn't take more than one week. There're services for acquiring it faster if required (as fast as overnight if you pay extra and pick up the documents from the embassy yourself).
 
-![]({{ site.baseurl }}/assets/visa.jpg)
+![]({{ site.baseurl }}/assets/optimised/visa.jpg)
 
 I've gone through a company called [Travcour](http://www.travcour.com/) as suggested by the Adventure Company. The site seems a bit dodge, but the process appears to be straightforward.
 
@@ -30,5 +30,5 @@ Update 17/05/13:
 
 Passport and visa returned! Pretty nice looking visa too ...
 
-![]({{ site.baseurl }}/assets/visa_2.jpg)
+![]({{ site.baseurl }}/assets/optimised/visa_2.jpg)
 

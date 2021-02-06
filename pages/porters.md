@@ -5,23 +5,23 @@ permalink: porters/
 ---
 Our crew were so awesome I had to include a whole page just for them.
 
-![]({{ site.baseurl }}/assets/ibrahim.jpg "ibrahim")
+![]({{ site.baseurl }}/assets/optimised/ibrahim.jpg "ibrahim")
 
 Ibrahim
 
-![]({{ site.baseurl }}/assets/emmanuel.jpg "emmanuel")
+![]({{ site.baseurl }}/assets/optimised/emmanuel.jpg "emmanuel")
 
 Emmanuel
 
-![]({{ site.baseurl }}/assets/msofia.jpg "msofia")
+![]({{ site.baseurl }}/assets/optimised/msofia.jpg "msofia")
 
 M'Sofia
 
-![]({{ site.baseurl }}/assets/godbless.jpg "godbless")
+![]({{ site.baseurl }}/assets/optimised/godbless.jpg "godbless")
 
 Godbless
 
-![]({{ site.baseurl }}/assets/philbert.jpg "philbert")
+![]({{ site.baseurl }}/assets/optimised/philbert.jpg "philbert")
 
 Philbert
 

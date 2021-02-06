@@ -9,13 +9,13 @@ Get spare batteries for everything.
 
 Update 11/05/13:
 
-![]({{ site.baseurl }}/assets/shades.jpg)
+![]({{ site.baseurl }}/assets/optimised/shades.jpg)
 
 Got some sweet, sweet shades: Bloc Scorpion (P301) Cat 3 Polarised £45 ([available at Amazon for £30](http://www.amazon.co.uk/Bloc-Scorpion-Sport-Sunglasses/dp/B007NVHZHU) ... dammit). They have a nice little bridge for the nose so they fit my relatively flat face without pressing against my eyeballs. They also have some side shielding to keep the dust and wind out.
 
 Update 19/05/13:
 
-![]({{ site.baseurl }}/assets/poles.jpg)
+![]({{ site.baseurl }}/assets/optimised/poles.jpg)
 
 Trekking poles!
 

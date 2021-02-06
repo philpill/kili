@@ -4,7 +4,7 @@ title: Diamox
 permalink: diamox/
 ---
 
-![Diamox]({{ site.baseurl }}/assets/diamox.jpg)
+![Diamox]({{ site.baseurl }}/assets/optimised/diamox.jpg)
 
 [Diamox](http://en.wikipedia.org/wiki/Acetazolamide) for [AMS](http://en.wikipedia.org/wiki/Altitude_sickness). Prescription only (I got mine from [Nomad Travel Clinic](http://www.nomadtravel.co.uk/c-4-travel-health-clinic.aspx))
 
