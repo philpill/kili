@@ -6,3 +6,6 @@ Gemfile.lock
 _site
 *.swp
 *.swo
+
+.bundle
+vendor
