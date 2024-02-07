@@ -29,7 +29,6 @@ repository: philpill/kili.github.io
 markdown: kramdown
 # theme: minima
 plugins:
-  - jekyll-feed
 exclude:
   - node_modules
   - vendor
